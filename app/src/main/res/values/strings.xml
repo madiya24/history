@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">History app</string>
+    <string name="textViewHistory"> HISTORY APP</string>
+    <string name="editTextAge"> Enter Age</string>
+    <string name="matchButton"> Match</string>
+    <string name="clearButton"> Clear</string>
+    <string name="exitButton"> Exit </string>
+    <string name="text"> Please enter your age </string>
+    <string name="textView">textView</string>
+    <string name="invalid_range_message">your age must be between 20 and 100</string>
+    <string name="invalid_age_message"> Please enter a valid age. </string>
+    <string name="incorrect_age">Your age is out of the range.</string>
+</resources>
